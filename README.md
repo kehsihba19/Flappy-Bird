@@ -8,7 +8,8 @@ Evergreen Flappy Bird game written in python3 using the pygame module.
 - `There is two random mode in game(Day and Night)`
 - `There are three random birds to play the game`
 - `The movement of bird is fully animated while flying`
-<img src="assets/Flappy.gif" align="right">
+
+<img src="assets/Flappy.gif" align="right" width="450" height="450">
 
 ## Installation
 
